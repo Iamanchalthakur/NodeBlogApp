@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables file
+.env
+
+# OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# npm package-lock file (optional, if you don't want to commit it)
+package-lock.json
+
+# Build output (if any)
+dist/
+build/
+
+# Other common files to ignore
+npm-debug.log*
+yarn-error.log*
